@@ -1,0 +1,49 @@
+.section1 {
+    background-color: rgb(240, 202, 178);
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.button1 button{
+    background-color: cornflowerblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.button2 button{
+    background-color: rgb(100, 237, 173);
+    position: absolute;
+    bottom: 40px;
+    right: 0;;
+    width: 200px;
+    height: 60px;
+}
+
+.section2 {
+    background-color: cadetblue;
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    top: 50%;
+    left: 0;
+}
+
+.button3 button{
+    background-color: rgb(211, 59, 59);
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    transform: translate( -50%, -0%);
+    width: 200px;
+    height: 60px;
+}
+
+
