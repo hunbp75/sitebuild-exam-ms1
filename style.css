@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .section1 {
     background-color: rgb(240, 202, 178);
     position: absolute;
@@ -28,7 +33,7 @@ p {
     background-color: rgb(100, 237, 173);
     position: absolute;
     bottom: 40px;
-    right: 0;;
+    right: 40px;
     width: 200px;
     height: 60px;
 }
